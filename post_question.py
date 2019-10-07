@@ -13,12 +13,12 @@ import json
 
 sys.dont_write_bytecode = True
 
-TOKEN = '' # HQ Trivia Webhook Token
+TOKEN = 'NjA4Mjk0NDA5MDg3NDgzOTE0.XZqz_Q.xdjpYWiMBkk8zuIRAaOKJLYGN-k' # HQ Trivia Webhook Token
 BOT_PREFIX = (".")
 
 client = discord.Client()
 client = Bot(command_prefix=BOT_PREFIX)
-CHANNEL = "468874613498314752"
+CHANNEL = "608262001650696202"
 
 choices = ["", "", ""]
 data = {}
