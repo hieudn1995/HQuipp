@@ -13,7 +13,7 @@ import json
 
 sys.dont_write_bytecode = True
 
-TOKEN = 'NjA4Mjk0NDA5MDg3NDgzOTE0.XZqz_Q.xdjpYWiMBkk8zuIRAaOKJLYGN-k' # HQ Trivia Webhook Token
+TOKEN = 'NjA4Mjk0NDA5MDg3NDgzOTE0.XZrCmA.DQDgPDNO1HAE55T2j7KO-Nkswlw' # HQ Trivia Webhook Token
 BOT_PREFIX = (".")
 
 client = discord.Client()
